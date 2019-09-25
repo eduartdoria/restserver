@@ -2,4 +2,4 @@
 
 no olvidar instalar
 
-````npm install```
+``` npm install ```
